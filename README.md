@@ -1,6 +1,4 @@
-Absolutely! Converting this guide into a README file for GitHub can help others understand the setup process better. Here's how you might structure it:
 
----
 
 # Candy Machine UI Setup Guide
 
